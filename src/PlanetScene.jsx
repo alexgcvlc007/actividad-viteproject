@@ -31,11 +31,14 @@ export default function PlanetScene() {
       1000
     );
 
+    // Renderer con fondo transparente
     const renderer = new THREE.WebGLRenderer({
       canvas: canvas,
       antialias: true,
+      alpha: true,
     });
 
+    renderer.setClearColor(0x000000, 0);
     renderer.setSize(sizes.width, sizes.height);
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 
