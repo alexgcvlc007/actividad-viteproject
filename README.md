@@ -76,6 +76,6 @@ El proyecto y sus cuatro ramas están subidos a GitHub:
 
 ## 9. Página web desplegada
 
-**Enlace a la web publicada mediante GitHub Pages:**
+La página web se ha publicado mediante GitHub Pages.
 
-Pendiente de completar.
+[Ver página web](https://alexgcvlc007.github.io/actividad-viteproject-web-3/)
