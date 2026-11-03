@@ -11,7 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
-# node_modules: contiene las dependencias instaladas.
+node_modules:
+# contiene las dependencias instaladas.
 # No se sube porque ocupa mucho espacio y se puede recuperar con npm install.
 
 # dist: contiene la versión final compilada de la web.
